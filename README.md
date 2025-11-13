@@ -1,11 +1,15 @@
-# EXP-4
-EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+# EXP-4 : HALFWAVE  AND FULL WAVE  RECTIFIERS
+### NAME : deepshika hemanth kuamr
+### REG NO : 212224220020
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+## AIM: 
+To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
-COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+## COMPONENTS  AND  EQUIPMENT  REQUIRED:  
+Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+## THEORY: 
+Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -26,7 +30,8 @@ Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the
 Rectifier Efficiency
 
 Rectifier efficiency is defined as the ratio of DC output power to the input power from the AC supply. Even with ideal rectifiers with no losses, the efficiency is less than 100% because some of the output power is AC power rather than DC which manifests as ripple superimposed on the DC waveform.
-PROCEDURE:
+
+## PROCEDURE:
 
 1.   Wire up the half wave rectifier circuit without capacitor after testing all the components.
 
@@ -34,18 +39,54 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+## CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+<b>Half wave Rectifier </b>
 
-Bridge rectifier with filter:
+![exp41](https://github.com/user-attachments/assets/79b8e3ff-703d-4c6c-b34c-6ec5219c5684)
+![exp42](https://github.com/user-attachments/assets/065ea749-b16b-4c2c-ade5-c4e1cdcbe9fe)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<br><br>
+![ep43](https://github.com/user-attachments/assets/2b63c7c8-41b0-41ce-8ea9-da6b7e01a6d1)
 
-WAVEFORM:
+<br>
+<br>
+
+<b>Full wave Rectifier </b>
+
+![exp44](https://github.com/user-attachments/assets/627443a3-fde5-4da3-abdc-887e4ae54e4d)
+
+![exp45](https://github.com/user-attachments/assets/5864a2e4-a2ac-4f44-809f-f43517b54076)
+
+<br><br>
+![xp46](https://github.com/user-attachments/assets/1b9b704c-cd69-4b04-b723-34456907ed90)
+
+<br>
+<br>
+
+
+### WAVEFORM:
+<b>Half wave Rectifier </b>
+
+<b>without filter</b>
+<br>
+<img width="500" height="300" alt="HWwithoutgra" src="https://github.com/user-attachments/assets/1e1478ab-4c67-44ba-8ed7-1b79e95cd0ac" />
+<br>
+<b>with filter</b>
+<br>
+<img width="500" height="300" alt="HWwithgra" src="https://github.com/user-attachments/assets/1a6b8c74-1b62-42a4-a0bb-f86db58c0c9b" />
+
+<br><br>
+<b>Full wave Rectifier </b>
+
+<b>without filter</b>
+<br>
+<img width="500" height="300" alt="FWwithoutgra" src="https://github.com/user-attachments/assets/f4ba3e13-6a80-4b7e-907c-36e7cb5336b1" />
+<br>
+<b>with filter</b>
+<br>
+<img width="500" height="300" alt="FWwithgra" src="https://github.com/user-attachments/assets/fb587c1d-5e91-4949-af7e-76b8938c57b4" />
+<br><br>
 
 
 RESULT:
